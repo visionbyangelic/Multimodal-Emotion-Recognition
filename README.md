@@ -1,5 +1,11 @@
 # Emotiwave 🌊 — Robust Multimodal Emotion Recognition with Interpretable Fusion
 
+[![Paper](https://img.shields.io/badge/Preprint-Figshare-blue)](https://doi.org/10.6084/m9.figshare.31567024)
+[![Notebooks](https://img.shields.io/badge/Code-Figshare-orange)](https://doi.org/10.6084/m9.figshare.31567054)
+[![Collection](https://img.shields.io/badge/Collection-Figshare-green)](https://doi.org/10.6084/m9.figshare.c.8341840)
+[![HAL](https://img.shields.io/badge/HAL-hal--05542288-red)](https://hal.science/hal-05542288)
+
+
 > **A Comparative Study on Missing Modality Adaptation**
 > 
 > Author: **Angelic Charles** · ID: DF2025-069 · DataraFlow Internship Programme  
