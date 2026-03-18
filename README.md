@@ -3,13 +3,7 @@
 [![Paper](https://img.shields.io/badge/Preprint-Figshare-blue)](https://doi.org/10.6084/m9.figshare.31567024)
 [![Notebooks](https://img.shields.io/badge/Code-Figshare-orange)](https://doi.org/10.6084/m9.figshare.31567054)
 [![Collection](https://img.shields.io/badge/Collection-Figshare-green)](https://doi.org/10.6084/m9.figshare.c.8341840)
-[![HAL](https://img.shields.io/badge/HAL-hal--05542288-red)](https://hal.science/hal-05542288)
-
-
-> **A Comparative Study on Missing Modality Adaptation**
-> 
-> Author: **Angelic Charles** · ID: DF2025-069 · DataraFlow Internship Programme  
-> Supervisor: **Winner Emeto** · [dataraflow@gmail.com](mailto:dataraflow@gmail.com)
+[![HAL](https://img.shields.io/badge/HAL-hal--05542288-red)](https://hal.science/hal-05557467)
 
 ---
 
@@ -647,7 +641,7 @@ Open `MER_CrossModalTransformer.ipynb` on Kaggle with GPU accelerator enabled.
 
 This project was completed as part of the **DataraFlow Internship Programme**.
 
-Supervised by **Winner Emeto** — [dataraflow@gmail.com](mailto:dataraflow@gmail.com)
+Supervised by **Winner Emeto** — [info@dataraflow.org](mailto:info@dataraflow.org)
 
 The CMU-MOSEI dataset was created and made publicly available by the **CMU Multimodal Analysis Group**. Kaggle provided the GPU infrastructure (Tesla P100-PCIE-16GB) used for all experiments.
 
